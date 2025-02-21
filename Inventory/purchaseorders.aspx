@@ -11,6 +11,7 @@
 
     <style type="text/css">
         .pagination-ys {
+            /*gokul*/
             /*display: inline-block;*/
             padding-left: 0;
             margin: 20px 0;
