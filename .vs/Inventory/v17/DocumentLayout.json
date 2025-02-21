@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91704\\source\\repos\\Inventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|c:\\users\\91704\\source\\repos\\inventory\\inventory\\purchaseorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|solutionrelative:inventory\\purchaseorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|C:\\Users\\91704\\source\\repos\\Inventory\\inventory\\purchaseorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|solutionrelative:inventory\\purchaseorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|C:\\Users\\91704\\source\\repos\\Inventory\\inventory\\itemmaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|solutionrelative:inventory\\itemmaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|C:\\Users\\91704\\source\\repos\\Inventory\\inventory\\itemmaster.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|solutionrelative:inventory\\itemmaster.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|C:\\Users\\91704\\source\\repos\\Inventory\\inventory\\transport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|solutionrelative:inventory\\transport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|C:\\Users\\91704\\source\\repos\\Inventory\\inventory\\transport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|solutionrelative:inventory\\transport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|C:\\Users\\91704\\source\\repos\\Inventory\\inventory\\customer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|solutionrelative:inventory\\customer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|C:\\Users\\91704\\source\\repos\\Inventory\\inventory\\customer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|solutionrelative:inventory\\customer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|C:\\Users\\91704\\source\\repos\\Inventory\\inventory\\usermaster.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|solutionrelative:inventory\\usermaster.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|C:\\Users\\91704\\source\\repos\\Inventory\\inventory\\unitmaster.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|solutionrelative:inventory\\unitmaster.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|C:\\Users\\91704\\source\\repos\\Inventory\\inventory\\supplier.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|solutionrelative:inventory\\supplier.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|C:\\Users\\91704\\source\\repos\\Inventory\\inventory\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|solutionrelative:inventory\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|C:\\Users\\91704\\source\\repos\\Inventory\\inventory\\usermaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|solutionrelative:inventory\\usermaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|C:\\Users\\91704\\source\\repos\\Inventory\\inventory\\supplier.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D505C7EC-3CAB-4927-8953-21BE0CD363B5}|Inventory\\Inventory.csproj|solutionrelative:inventory\\supplier.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 155,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transport.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\Transport.aspx.cs",
+              "RelativeDocumentMoniker": "Inventory\\Transport.aspx.cs",
+              "ToolTip": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\Transport.aspx.cs",
+              "RelativeToolTip": "Inventory\\Transport.aspx.cs",
+              "ViewState": "AgIAAB8CAAAAAAAAAAAUwBoBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:34:00.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transport.aspx",
+              "DocumentMoniker": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\Transport.aspx",
+              "RelativeDocumentMoniker": "Inventory\\Transport.aspx",
+              "ToolTip": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\Transport.aspx",
+              "RelativeToolTip": "Inventory\\Transport.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-30T11:30:43.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemMaster.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\ItemMaster.aspx.cs",
+              "RelativeDocumentMoniker": "Inventory\\ItemMaster.aspx.cs",
+              "ToolTip": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\ItemMaster.aspx.cs",
+              "RelativeToolTip": "Inventory\\ItemMaster.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:01:50.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemMaster.aspx",
+              "DocumentMoniker": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\ItemMaster.aspx",
+              "RelativeDocumentMoniker": "Inventory\\ItemMaster.aspx",
+              "ToolTip": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\ItemMaster.aspx",
+              "RelativeToolTip": "Inventory\\ItemMaster.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-20T10:00:55.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Inventory\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\WebForm1.aspx",
+              "RelativeToolTip": "Inventory\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-06T04:55:44.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.aspx",
+              "DocumentMoniker": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\Customer.aspx",
+              "RelativeDocumentMoniker": "Inventory\\Customer.aspx",
+              "ToolTip": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\Customer.aspx",
+              "RelativeToolTip": "Inventory\\Customer.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-23T08:52:25.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\Customer.aspx.cs",
+              "RelativeDocumentMoniker": "Inventory\\Customer.aspx.cs",
+              "ToolTip": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\Customer.aspx.cs",
+              "RelativeToolTip": "Inventory\\Customer.aspx.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAWwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:21:40.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "purchaseorders.aspx",
+              "DocumentMoniker": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\purchaseorders.aspx",
+              "RelativeDocumentMoniker": "Inventory\\purchaseorders.aspx",
+              "ToolTip": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\purchaseorders.aspx",
+              "RelativeToolTip": "Inventory\\purchaseorders.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-22T09:40:07.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "purchaseorders.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\purchaseorders.aspx.cs",
+              "RelativeDocumentMoniker": "Inventory\\purchaseorders.aspx.cs",
+              "ToolTip": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\purchaseorders.aspx.cs",
+              "RelativeToolTip": "Inventory\\purchaseorders.aspx.cs",
+              "ViewState": "AgIAAAYCAAAAAAAAAAAnwAwCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:08:53.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "supplier.aspx",
+              "DocumentMoniker": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\supplier.aspx",
+              "RelativeDocumentMoniker": "Inventory\\supplier.aspx",
+              "ToolTip": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\supplier.aspx",
+              "RelativeToolTip": "Inventory\\supplier.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-20T10:09:57.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "supplier.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\supplier.aspx.cs",
+              "RelativeDocumentMoniker": "Inventory\\supplier.aspx.cs",
+              "ToolTip": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\supplier.aspx.cs",
+              "RelativeToolTip": "Inventory\\supplier.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwNEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:03:50.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserMaster.aspx",
+              "DocumentMoniker": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\UserMaster.aspx",
+              "RelativeDocumentMoniker": "Inventory\\UserMaster.aspx",
+              "ToolTip": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\UserMaster.aspx",
+              "RelativeToolTip": "Inventory\\UserMaster.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-20T16:02:47.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserMaster.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\UserMaster.aspx.cs",
+              "RelativeDocumentMoniker": "Inventory\\UserMaster.aspx.cs",
+              "ToolTip": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\UserMaster.aspx.cs",
+              "RelativeToolTip": "Inventory\\UserMaster.aspx.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAAB8BAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:43:45.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "unitmaster.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\unitmaster.aspx.cs",
+              "RelativeDocumentMoniker": "Inventory\\unitmaster.aspx.cs",
+              "ToolTip": "C:\\Users\\91704\\source\\repos\\Inventory\\Inventory\\unitmaster.aspx.cs",
+              "RelativeToolTip": "Inventory\\unitmaster.aspx.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAcwGcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:57:43.473Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
